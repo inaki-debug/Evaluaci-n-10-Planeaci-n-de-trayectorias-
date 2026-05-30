@@ -33,5 +33,8 @@ Esta lista se utilizó en el algoritmo del controlador, obteniendo los siguiente
 
 <img width="640" height="480" alt="inaki_rostro" src="https://github.com/user-attachments/assets/0586a57e-470c-4732-92fe-87bc2a732246" />
 
+<img width="1065" height="670" alt="resultado" src="https://github.com/user-attachments/assets/6af69c2c-981a-43ec-844d-b6c7b75175de" />
+
+
 
 
